@@ -1,6 +1,9 @@
 # Avalonia.Windows.Scaling.Bug
 Scaling/Resolution bug on Windows
 
+Tested on:
+12.0.999-cibuild0058128-alpha
+
 Step to reproduce:
 1. Create project with latest prerealse Avalonia
 2. Change App.xaml.cs code
